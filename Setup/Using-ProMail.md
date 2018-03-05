@@ -65,5 +65,5 @@ Get-EmailAccount -EmailAddress 'correomonitoreado@correo.com' | Remove-RuleFromE
 ```
 
 - **Nota:**
-Esta es la configuracion basica para el funcionamiento del modulo para validar mas opciones de configuracion como agregar y quitar asuntos, aduntos, correos autorizados y cambios de contraseña puede validar las demas funciones del modulo.
+Esta es la configuracion basica para iniciar el proceso de [Monitoreo de correos](Monitor-Emails.md) del modulo. Para validar mas opciones de configuracion como agregar y quitar asuntos, aduntos, correos autorizados y cambios de contraseña puede validar las demas funciones del modulo.
 
