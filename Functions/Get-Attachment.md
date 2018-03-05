@@ -88,8 +88,6 @@ Autor: \<Jarodriguezc\>
 
 ## RELATED LINKS
 
-[Get-Attachment](Get-Attachment.md)
-
 [Add-Attachment](Add-Attachment.md)
 
 [Remove-Attachment](Remove-Attachment.md)
