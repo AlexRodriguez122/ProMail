@@ -77,5 +77,5 @@ Autor: \<Jarodriguezc\>
 ## RELATED LINKS
 
 [Add-Subject](Add-Subject.md)
-[Remove-Subject](Remove-Subject.md)()
+[Remove-Subject](Remove-Subject.md)
 
