@@ -75,5 +75,9 @@ Autor: \<Jarodriguezc\>
 
 ## RELATED LINKS
 
-[[Update-EmailAccountPassword](Update-EmailAccountPassword.md)]()
+[Update-EmailAccountPassword](Update-EmailAccountPassword.md)
+
+[Get-EmailAccount](Get-EmailAccount.md)
+
+[Register-EmailAccount](Register-EmailAccount.md)
 
