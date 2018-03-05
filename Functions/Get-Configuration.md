@@ -52,6 +52,7 @@ Autor Modificacion: \<Jarodriguezc\>
 
 ## RELATED LINKS
 
-[[Set-Configuration](Set-Configuration.md)
-[Test-Configuration](Test-Configuration.md)]()
+[Set-Configuration](Set-Configuration.md)
+
+[Test-Configuration](Test-Configuration.md)
 
