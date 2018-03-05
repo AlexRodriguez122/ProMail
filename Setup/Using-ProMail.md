@@ -36,29 +36,9 @@ Get-Rule -Name 'NombreIntuitivo'
 Get-Rule -IdRule 1
 Get-Rule
 ```
-
 Para validar que reglas tiene asociada una cuenta se puede utilizar el siguiente comando :
 ```powershell
 Get-EmailAccount -EmailAddress 'correomonitoreado@correo.com' | Get-Rule
-```
-
-**Inicio de Monitoreo de Correo Electronico**
-```powershell
-Start-Monitor
-```
-Cuando inicie el proceso de monitoreo se espera a que un correo recibido cumpla con alguna de las reglas asociadas a alguna de las cuentas monitoreadas para ser procesado.
-En cuanto se detecte un correo que cumpla con la regla se iniciara el proceso pertinente indicado en la regla como Plugin.
-
-Para validar el proceso de un correo recibido se puede utilizar el sigueinte comando:
-```powershell
-Get-JobState
-```
-- **Nota:**
-despues de completado el proceso del plugin la informacion del job sera eliminada de la base de datos pero no del log del proceso.
-
-Para detener el monitoreo de la cuenta se debe utilizar el sigueinte comando:
-```powershell
-Stop-Monitor
 ```
 Para deshabilitar el monitoreo a una cuenta de correo:
 ```powershell
@@ -83,6 +63,26 @@ Para remover la asociacion de la regla a una cuenta:
 Get-EmailAccount -EmailAddress 'correomonitoreado@correo.com' | Remove-RuleFromEmailAccount -IdRule 1
 Get-EmailAccount -EmailAddress 'correomonitoreado@correo.com' | Remove-RuleFromEmailAccount -IdRule 1,2
 ```
+
+**Inicio de Monitoreo de Correo Electronico**
+```powershell
+Start-Monitor
+```
+Cuando inicie el proceso de monitoreo se espera a que un correo recibido cumpla con alguna de las reglas asociadas a alguna de las cuentas monitoreadas para ser procesado.
+En cuanto se detecte un correo que cumpla con la regla se iniciara el proceso pertinente indicado en la regla como Plugin.
+
+Para validar el proceso de un correo recibido se puede utilizar el sigueinte comando:
+```powershell
+Get-JobState
+```
+- **Nota:**
+despues de completado el proceso del plugin la informacion del job sera eliminada de la base de datos pero no del log del proceso.
+
+Para detener el monitoreo de la cuenta se debe utilizar el sigueinte comando:
+```powershell
+Stop-Monitor
+```
+
 
 
 
