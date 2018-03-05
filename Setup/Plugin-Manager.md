@@ -6,8 +6,6 @@ Para registrar un plugin se utiliza la función `Install-Plugin`
 
 Un plugin es un archivo zip que contiene al menos dos archivos:
 
-![Plugin](Images/Plugin.png)
-
 
 ## Manifiesto 
 Es un archivo en formato XML donde se definen las propiedades del plugin como el nombre, número de versión, etc. El nombre de este archivo debe corresponder con el valor del parámetro `ManifestName` al utilizar la función `Install-Plugin`.
