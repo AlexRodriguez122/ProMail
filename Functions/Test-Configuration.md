@@ -67,7 +67,7 @@ Autor: \<Magudelo\>
 
 ## RELATED LINKS
 
-[[Set-Configuration](Set-Configuration.md)]()
+[Set-Configuration](Set-Configuration.md)
 
-[[Get-Configuration](Get-Configuration.md)]()
+[Get-Configuration](Get-Configuration.md)
 
