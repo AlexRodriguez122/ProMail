@@ -65,7 +65,7 @@ Autor: \<Jarodriguezc\>
 
 ## RELATED LINKS
 
-[Remove-Attachment](Remove-Attachment.md)
+[Add-Attachment](Add-Attachment.md)
 
 [Get-Attachment](Get-Attachment.md)
 
