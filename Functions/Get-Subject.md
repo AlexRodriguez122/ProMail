@@ -88,7 +88,7 @@ Autor: \<Jarodriguezc\>
 
 ## RELATED LINKS
 
-[[Get-Subject](Get-Subject.md)]()
+[Get-Subject](Get-Subject.md)
 
-[[Remove-Subject](Remove-Subject.md)]()
+[Remove-Subject](Remove-Subject.md)
 
