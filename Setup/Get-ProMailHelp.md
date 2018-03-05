@@ -1,7 +1,7 @@
 
 # ¿Qué hace cada una de las funciones?
 
-Para obtener ayuda sobre cada una de las funciones puede utilizar el comando [Get-Help](https://msdn.microsoft.com/en-us/powershell/reference/5.1/microsoft.powershell.core/get-help) de PowerShell. La sintaxis es Get-Help seguido del nombre de la función. Supongamos que desea observar la ayuda del comando Set-ReportConfig del módulo.
+Para obtener ayuda sobre cada una de las funciones puede utilizar el comando [Get-Help](https://msdn.microsoft.com/en-us/powershell/reference/5.1/microsoft.powershell.core/get-help) de PowerShell. La sintaxis es Get-Help seguido del nombre de la función. Supongamos que desea observar la ayuda del comando Register-EmailAccount y Register-Rule del módulo.
 
 ```powershell
 Get-Help Register-EmailAccount
