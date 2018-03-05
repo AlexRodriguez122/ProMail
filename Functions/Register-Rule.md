@@ -159,5 +159,7 @@ Autor: \<Jarodriguezc\>
 
 ## RELATED LINKS
 
-[[Register-Rule](Register-Rule.md)]()
+[Get-Rule](Get-Rule.md)
+
+[Update-RuleTemplate](Update-RuleTemplate.md)
 
