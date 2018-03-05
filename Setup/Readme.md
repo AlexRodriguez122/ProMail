@@ -12,5 +12,5 @@ Esta sección explica cómo instalar el módulo ProMail así como sus pre-requis
 
 * [Desintalación](Uninstalling-ProMail.md)
 
-* [Ayuda](Get-PSRHelp.md)
+* [Ayuda](Get-ProMailHelp.md)
 
