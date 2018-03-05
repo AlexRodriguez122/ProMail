@@ -58,5 +58,5 @@ Autor: \<Jarodriguezc\>
 
 ## RELATED LINKS
 
-[[Get-Template](Get-Template.md)]()
+[Update-RuleTemplate](Get-RuleTemplate.md)
 
