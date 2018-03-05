@@ -4,7 +4,7 @@ Esta sección explica cómo instalar el módulo ProMail así como sus pre-requis
 
 * [Instalación](Installing-ProMail.md)
 
-* [Importación](Importing-PSRreports.md)
+* [Importación](Importing-ProMail.md)
 
 * [Comandos Disponibles](Get-Command-ProMail.md)
 
