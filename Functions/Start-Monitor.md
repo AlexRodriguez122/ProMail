@@ -43,5 +43,8 @@ Autor: \<Jarodriguezc\>
 
 ## RELATED LINKS
 
-[]()
+[Stop-Monitor](Stop-Monitor)
+
+[Get-MonitorState](Get-MonitorState)
+
 
