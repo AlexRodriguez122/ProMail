@@ -43,7 +43,7 @@ Autor: \<Jarodriguez\>
 
 ## RELATED LINKS
 
-[Get-Monitor](Get-Monitor.md)
+[Get-MonitorState](Get-MonitorState.md)
 
 [Start-Monitor](Start-Monitor.md)
 
