@@ -65,7 +65,7 @@ Autor: \<Jarodriguezc\>
 
 ## RELATED LINKS
 
-[[Get-RestrictedSender](Get-RestrictedSender.md)]()
+[Register-RestrictedSender](Register-RestrictedSender.md)
 
-[[Remove-RestrictedSender](Remove-RestrictedSender.md)]()
+[Unregister-RestrictedSender](Unregister-RestrictedSender.md)
 
