@@ -82,7 +82,5 @@ Autor: \<Jarodriguezc\>
 
 ## RELATED LINKS
 
-[Enable-EmailAccount](Enable-EmailAccount.md)
-
 [Disable-EmailAccount](Disable-EmailAccount.md)
 
