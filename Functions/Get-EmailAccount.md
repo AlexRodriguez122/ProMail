@@ -84,6 +84,7 @@ Autor: \<Jarodriguezc\>
 
 ## RELATED LINKS
 
-[[Get-EmailAccount](Get-EmailAccount.md)
-[Register-EmailAccount](Register-EmailAccount.md)]()
+[Update-EmailAccountPassword](Update-EmailAccountPassword.md)
+
+[Register-EmailAccount](Register-EmailAccount.md)
 
