@@ -58,6 +58,7 @@ Autor: \<Jarodriguez\>
 
 ## RELATED LINKS
 
-[[Remove-Subject](Remove-Subject.md)
-[Get-Subject](Get-Subject.md)]()
+[Remove-Subject](Remove-Subject.md)
+
+[Get-Subject](Get-Subject.md)
 
