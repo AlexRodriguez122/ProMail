@@ -85,5 +85,5 @@ Autor: \<Jarodriguezc\>
 
 [Add-RuleToEmailAcoount](Add-RuleToEmailAcoount.md)
 
-[Remove-RuleFromEmailAcoount](Remove-RuleFromEmailAcoount.md)
+[Remove-RuleFromEmailAcoount](Remove-RuleFromEmailAccount.md)
 
