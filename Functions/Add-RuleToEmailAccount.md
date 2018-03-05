@@ -83,5 +83,7 @@ Autor: \<Jarodriguezc\>
 
 ## RELATED LINKS
 
-[[Add-RuleToEmailAcoount](Add-RuleToEmailAcoount.md)]()
+[Add-RuleToEmailAcoount](Add-RuleToEmailAcoount.md)
+
+[Remove-RuleToEmailAcoount](Remove-RuleToEmailAcoount.md)
 
