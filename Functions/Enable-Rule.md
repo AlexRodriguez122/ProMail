@@ -82,7 +82,5 @@ Autor: \<Jarodriguezc\>
 
 ## RELATED LINKS
 
-[Enable-Rule](Enable-Rule.md)
-
 [Disable-Rule](Disable-Rule.md)
 
