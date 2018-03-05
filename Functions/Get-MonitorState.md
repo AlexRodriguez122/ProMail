@@ -43,7 +43,7 @@ Autor: \<Jarodriguezc\>
 
 ## RELATED LINKS
 
-[[Add-AuthorizedSender](Add-AuthorizedSender.md)]()
+[Start-Monitor](Start-Monitor.md)
 
-[[Remove-AuthorizedSender](Remove-AuthorizedSender.md)]()
+[Stop-Monitor](Stop-Monitor.md)
 
