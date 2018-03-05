@@ -105,6 +105,8 @@ Autor: \<Jarodriguezc\>
 
 ## RELATED LINKS
 
-[[Add-AuthorizedSender](Add-AuthorizedSender.md)
-[Remove-AuthorizedSender](Remove-AuthorizedSender.md)]()
+[Add-AuthorizedSender](Add-AuthorizedSender.md)
+
+[Remove-AuthorizedSender](Remove-AuthorizedSender.md)
+
 
