@@ -39,5 +39,5 @@ Autor: \<Jarodriguezc\>
 
 ## RELATED LINKS
 
-[[Get-JobState](Get-JobState.md)]()
+[Get-JobState](Get-JobState.md)
 
