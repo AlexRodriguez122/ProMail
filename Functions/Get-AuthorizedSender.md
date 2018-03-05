@@ -85,7 +85,5 @@ Autor: \<Jarodriguezc\>
 
 [Add-AuthorizedSender](Add-AuthorizedSender.md)
 
-[Get-AuthorizedSender](Get-AuthorizedSender.md)
-
 [Remove-AuthorizedSender](Remove-AuthorizedSender.md)
 
