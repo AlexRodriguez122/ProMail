@@ -109,6 +109,6 @@ Autor: \<Jarodriguezc\>
 
 ## RELATED LINKS
 
-[Register-Rule](Get-Rule.md)
+[Register-Rule](Register-Rule.md)
 
 [Update-RuleTemplate](Update-RuleTemplate.md)
