@@ -83,7 +83,9 @@ Autor: \<Jarodriguezc\>
 
 ## RELATED LINKS
 
-[[Add-AuthorizedSender](Add-AuthorizedSender.md)
+[Add-AuthorizedSender](Add-AuthorizedSender.md)
+
 [Get-AuthorizedSender](Get-AuthorizedSender.md)
-[Remove-AuthorizedSender](Remove-AuthorizedSender.md)]()
+
+[Remove-AuthorizedSender](Remove-AuthorizedSender.md)
 
