@@ -101,5 +101,7 @@ Autor: \<Jarodriguezc\>
 
 ## RELATED LINKS
 
-[[Update-RuleTemplate](Update-RuleTemplate.md)]()
+[Register-Rule](Register-Rule.md)
+
+[Get-Rule](Get-Rule.md)
 
