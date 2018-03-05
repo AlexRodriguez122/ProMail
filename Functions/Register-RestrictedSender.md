@@ -92,6 +92,7 @@ Autor: \<Jarodriguezc\>
 
 ## RELATED LINKS
 
-[[Register-RestrictedSender](Register-RestrictedSender.md)
-[Unregister-RestrictedSender](Unregister-RestrictedSender.md)]()
+[Unregister-RestrictedSender](Unregister-RestrictedSender.md)
+
+[Get-RestrictedSender](Get-RestrictedSender.md)
 
