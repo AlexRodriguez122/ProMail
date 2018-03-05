@@ -109,7 +109,6 @@ Autor: \<Jarodriguezc\>
 
 ## RELATED LINKS
 
-[[Get-Rule](Get-Rule.md)]()
+[Register-Rule](Get-Rule.md)
 
-[[Remove-Rule](Remove-Rule.md)]()
-
+[Update-RuleTemplate](Update-RuleTemplate.md)
