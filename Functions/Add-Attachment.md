@@ -74,7 +74,7 @@ Autor: \<jarodriguezc\>
 
 ## RELATED LINKS
 
-[Add-Attachment](Add-Attachment.md)
+[Get-Attachment](Get-Attachment.md)
 
 [Remove-Attachment](Remove-Attachment.md)
 
