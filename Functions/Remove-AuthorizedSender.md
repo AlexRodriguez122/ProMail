@@ -60,7 +60,7 @@ Autor: \<Jarodriguezc\>
 
 ## RELATED LINKS
 
-[Remove-AuthorizedSender](Remove-AuthorizedSender.md)
+[Add-AuthorizedSender](Add-AuthorizedSender.md)
 
 [Get-AuthorizedSender](Get-AuthorizedSender.md)
 
