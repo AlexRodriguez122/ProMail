@@ -43,6 +43,7 @@ Autor: \<Jarodriguez\>
 
 ## RELATED LINKS
 
-[[Stop-Monitor](Stop-Monitor.md)
-[Start-Monitor](Start-Monitor.md)]()
+[Get-Monitor](Get-Monitor.md)
+
+[Start-Monitor](Start-Monitor.md)
 
